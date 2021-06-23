@@ -574,6 +574,7 @@ margin-bottom: 68px;
 .popup {
   width: 960px;
   position: relative;
+  display: none;
 }
 .close-cross-icon {
   border: none;
