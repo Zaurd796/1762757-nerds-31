@@ -512,6 +512,9 @@ margin-bottom: 68px;
 .contacts__button {
   padding: 17px 44px 15px 44px;
 }
+.map-img {
+  background-color: var(--basic-grey);
+}
 .map-marker-img {
   position: absolute;
   left: 838px;
@@ -936,6 +939,7 @@ margin-bottom: 68px;
 }
 .catalog__list-item {
   position: relative;
+  background-color: var(--basic-grey);
 }
 .catalog__button {
   cursor: pointer;
