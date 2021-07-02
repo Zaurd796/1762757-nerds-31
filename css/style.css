@@ -238,6 +238,7 @@ img {
 .slider__button {
   padding: 17px 54px 15px 54px;
   display: inline-block;
+  vertical-align: middle;
 }
 .slider__controls {
   position: absolute;
@@ -267,7 +268,6 @@ img {
   left: 4px;
 }
 .slider__img {
-  display: inline-block;
   margin-top: -7px;
 }
 
@@ -791,7 +791,6 @@ background-size: cover;
 }
 .price-controls__label-text {
   margin-right: 11px;
-  display: inline-block;
 }
 .price-controls__input {
   line-height: 22px;
