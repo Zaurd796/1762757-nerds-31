@@ -872,6 +872,7 @@ background-size: cover;
   width: 25px;
   height: 23px;
   background-image: url("../img/checkbox-off.svg");
+  background-repeat: no-repeat;
   left: 0;
   top: -2px;
 }
